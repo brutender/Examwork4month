@@ -3,7 +3,7 @@ package examwork4month;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Connection {
+public class Connect {
     private final String url = "jdbc:postgresql://localhost:5432/postgres";
     private final String user = "postgres";
     private final String password = "km-jm-kam-am1";
